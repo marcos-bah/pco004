@@ -1,0 +1,15 @@
+# Artefatos de compilacao C
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+
+# Pastas de build comuns
+build/
+bin/
+dist/
+
+# vscode
+.vscode/
